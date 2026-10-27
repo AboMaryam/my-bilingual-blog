@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ahmed",
+    "email": "admin@blog.com",
+    "password": "123",
+    "role": "admin",
+    "arName": "أحمد المنصور",
+    "enName": "Ahmed Al-Mansour",
+    "joinedAt": "2026-10-01"
+  },
+  {
+    "id": "sara",
+    "email": "sara@blog.com",
+    "password": "123",
+    "role": "author",
+    "arName": "سارة العلي",
+    "enName": "Sara Al-Ali",
+    "joinedAt": "2026-10-10"
+  },
+  {
+    "id": "member1",
+    "email": "member@blog.com",
+    "password": "123",
+    "role": "member",
+    "arName": "خالد سعيد",
+    "enName": "Khaled Saeed",
+    "joinedAt": "2026-10-20"
+  },
+  {
+    "id": "samialzake82",
+    "email": "samialzake@gmail.com",
+    "password": "123456789",
+    "role": "admin",
+    "arName": "omer",
+    "enName": "omer",
+    "joinedAt": "2026-10-27"
+  },
+  {
+    "id": "gafaralzake39",
+    "email": "gafaralzake@gmail.com",
+    "password": "0123456789",
+    "role": "admin",
+    "arName": "gaafr",
+    "enName": "gaafr",
+    "joinedAt": "2026-10-27"
+  },
+  {
+    "id": "googleuser62",
+    "email": "google.user@gmail.com",
+    "password": "123",
+    "role": "member",
+    "arName": "مستخدم Google",
+    "enName": "مستخدم Google",
+    "joinedAt": "2026-10-27"
+  },
+  {
+    "id": "fbuser24",
+    "email": "fb.user@facebook.com",
+    "password": "123",
+    "role": "member",
+    "arName": "مستخدم Facebook",
+    "enName": "مستخدم Facebook",
+    "joinedAt": "2026-10-27"
+  }
+]

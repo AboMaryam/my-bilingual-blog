@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1793116212495",
+    "subject": " هو \"لوريم إيبسوم\" ؟",
+    "postUrl": "http://localhost:3000/ar/blog/what-is-lorem-ipsum",
+    "recipientsCount": 1,
+    "date": "2026-10-27",
+    "mode": "Recorded / Mail Client"
+  },
+  {
+    "id": "1793116146403",
+    "subject": "الدليل الشامل لبناء تطبيقات حديثة باستخدام Next.js App Router",
+    "postUrl": "http://localhost:3000/ar/blog/nextjs-app-router-guide",
+    "recipientsCount": 1,
+    "date": "2026-10-27",
+    "mode": "Recorded / Mail Client"
+  },
+  {
+    "id": "1793116080367",
+    "subject": "clean-javascript-tips",
+    "postUrl": "http://localhost:3000/ar/blog/clean-javascript-tips",
+    "recipientsCount": 1,
+    "date": "2026-10-27",
+    "mode": "Recorded / Mail Client"
+  }
+]
